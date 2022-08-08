@@ -1,8 +1,8 @@
 {
-  "name": "lotide",
+  "name": "@imdodds/lotide",
   "version": "1.0.0",
-  "description": "",
-  "main": "assertArraysEqual.js",
+  "description": "Lotide is utility library for JavaScript. It contains a modular collection of functions that operate on data, namely Arrays and Objects.",
+  "main": "index.js",
   "directories": {
     "test": "test"
   },
@@ -13,7 +13,10 @@
     "type": "git",
     "url": "git+https://github.com/imdodds/lotide.git"
   },
-  "author": "",
+  "author": {
+    "name": "Ian Dodds",
+    "email": "ianmitchelldodds@gmail.com"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/imdodds/lotide/issues"
